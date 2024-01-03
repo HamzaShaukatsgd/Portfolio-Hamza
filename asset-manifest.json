@@ -1,9 +1,10 @@
 {
   "files": {
     "main.css": "/Portfolio-Hamza/static/css/main.cc2f0ae4.css",
-    "main.js": "/Portfolio-Hamza/static/js/main.73b401a9.js",
+    "main.js": "/Portfolio-Hamza/static/js/main.a650ca84.js",
     "static/js/415.fb51c11d.chunk.js": "/Portfolio-Hamza/static/js/415.fb51c11d.chunk.js",
     "static/js/787.35dd0f9c.chunk.js": "/Portfolio-Hamza/static/js/787.35dd0f9c.chunk.js",
+    "static/media/gym.png": "/Portfolio-Hamza/static/media/gym.a86a7aa7e53e79d348df.png",
     "static/media/leaf.png": "/Portfolio-Hamza/static/media/leaf.ff2616f664c8c0ceab91.png",
     "static/media/emotion.png": "/Portfolio-Hamza/static/media/emotion.eabfc16e7a146ab15778.png",
     "static/media/suicide.png": "/Portfolio-Hamza/static/media/suicide.9c86cd7138a398c45fa5.png",
@@ -23,12 +24,12 @@
     "static/media/pre.svg": "/Portfolio-Hamza/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/Portfolio-Hamza/index.html",
     "main.cc2f0ae4.css.map": "/Portfolio-Hamza/static/css/main.cc2f0ae4.css.map",
-    "main.73b401a9.js.map": "/Portfolio-Hamza/static/js/main.73b401a9.js.map",
+    "main.a650ca84.js.map": "/Portfolio-Hamza/static/js/main.a650ca84.js.map",
     "415.fb51c11d.chunk.js.map": "/Portfolio-Hamza/static/js/415.fb51c11d.chunk.js.map",
     "787.35dd0f9c.chunk.js.map": "/Portfolio-Hamza/static/js/787.35dd0f9c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cc2f0ae4.css",
-    "static/js/main.73b401a9.js"
+    "static/js/main.a650ca84.js"
   ]
 }
